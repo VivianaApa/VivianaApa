@@ -1,9 +1,7 @@
-### Hi there 👋
-
+### Hola soy Viviana! 👋
+Recientemente finalize un programa de tecnología en Tripleten Bootcamp enfocado al Analisis de Datos. Estoy en busca de colaboraciones laborales en empresas del sector salud en todos sus ramos.
 <!--
-**VivianaApa/VivianaApa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Recientemente finalize un programa de tecnología en Tripleten Bootcamp enfocado al Analisis de Datos. Estoy en busca de colaboraciones laborales en empresas del sector salud en todos sus ramos. 
+**VivianaApa/VivianaApa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 
 Here are some ideas to get you started:
 
