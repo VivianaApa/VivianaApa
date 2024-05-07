@@ -1,7 +1,13 @@
 ### Hola soy Viviana! 👋
 
-!(https://github.com/VivianaApa/VivianaApa/blob/main/Portada.png)
+![](https://github.com/VivianaApa/VivianaApa/blob/main/Portada.png)
+
 Recientemente finalize un programa de tecnología en Tripleten Bootcamp enfocado al Analisis de Datos. Estoy en busca de colaboraciones laborales en empresas del sector salud en todos sus ramos.
+
+## Skills
+![Static Badge](https://img.shields.io/badge/:badgeContent?style=flat-square&logo=python&logoColor=%233776AB&label=Python)
+
+
 <!--
 **VivianaApa/VivianaApa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 
